@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula de tp1</title>
+</head>
+<body>
+    <script>
+        alert("Como Calcular força:")
+        alert("A formula é: F = m.a")
+        m = prompt("Digite a massa: ")
+        a = prompt("Digite a acelerção: ")
+        F = m*a
+        alert("A força é:"+F)
+    </script>
+</body>
+</html>
